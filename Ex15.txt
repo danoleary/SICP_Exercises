@@ -1,0 +1,1 @@
+Both cases will only evaluate 0 = 0 and return 0

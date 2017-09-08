@@ -1,0 +1,3 @@
+Lisp uses applicative order evaluation, which means that all of the parameters to a function will be evaluated first.
+
+Therefore, (sqrt-iter (improve guess x) x)) would be evaluated in a loop forever
